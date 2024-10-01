@@ -1,1 +1,1 @@
-# Snake-game
+It is a Snake game project
